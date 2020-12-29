@@ -1,1 +1,1 @@
-# hosts
+### 自用hosts规则
